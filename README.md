@@ -3,4 +3,4 @@
 Some project.
 
 ## Subheader
-Wathc tutorial on YouTube.
+Watch tutorial on YouTube.
